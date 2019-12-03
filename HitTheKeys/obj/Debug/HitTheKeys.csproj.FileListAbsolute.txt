@@ -1,0 +1,9 @@
+C:\Users\live\source\repos\HitTheKeys\HitTheKeys\bin\Debug\HitTheKeys.exe.config
+C:\Users\live\source\repos\HitTheKeys\HitTheKeys\bin\Debug\HitTheKeys.exe
+C:\Users\live\source\repos\HitTheKeys\HitTheKeys\bin\Debug\HitTheKeys.pdb
+C:\Users\live\source\repos\HitTheKeys\HitTheKeys\obj\Debug\HitTheKeys.csprojAssemblyReference.cache
+C:\Users\live\source\repos\HitTheKeys\HitTheKeys\obj\Debug\HitTheKeys.Form1.resources
+C:\Users\live\source\repos\HitTheKeys\HitTheKeys\obj\Debug\HitTheKeys.Properties.Resources.resources
+C:\Users\live\source\repos\HitTheKeys\HitTheKeys\obj\Debug\HitTheKeys.csproj.GenerateResource.cache
+C:\Users\live\source\repos\HitTheKeys\HitTheKeys\obj\Debug\HitTheKeys.exe
+C:\Users\live\source\repos\HitTheKeys\HitTheKeys\obj\Debug\HitTheKeys.pdb
