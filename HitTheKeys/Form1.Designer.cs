@@ -102,13 +102,14 @@
             // difficultyLabel
             // 
             this.difficultyLabel.Name = "difficultyLabel";
-            this.difficultyLabel.Size = new System.Drawing.Size(616, 24);
+            this.difficultyLabel.Size = new System.Drawing.Size(414, 24);
             this.difficultyLabel.Spring = true;
             this.difficultyLabel.Text = "Difficulty";
             this.difficultyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // difficultyProgressBar
             // 
+            this.difficultyProgressBar.Maximum = 701;
             this.difficultyProgressBar.Name = "difficultyProgressBar";
             this.difficultyProgressBar.Size = new System.Drawing.Size(100, 23);
             // 
@@ -121,7 +122,7 @@
             this.Controls.Add(this.listBox1);
             this.Font = new System.Drawing.Font("Microsoft YaHei UI", 72F, System.Drawing.FontStyle.Bold);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
-            this.Margin = new System.Windows.Forms.Padding(31, 31, 31, 31);
+            this.Margin = new System.Windows.Forms.Padding(31);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";

@@ -18,6 +18,9 @@ namespace HitTheKeys
         public Form1()
         {
             InitializeComponent();
+
+            //必须要将KeyPreview设置为真，否则KeyDown事件不发生
+            this.KeyPreview = true;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -33,7 +36,7 @@ namespace HitTheKeys
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
-        {
+        {          
             if (listBox1.Items.Contains(e.KeyCode))
             {
                 listBox1.Items.Remove(e.KeyCode);
@@ -63,5 +66,6 @@ namespace HitTheKeys
             totalLabel.Text = "Total: " + stats.Total;
             accuracyLabel.Text = "Accuray: " + stats.Accuracy + "%";
         }
+
     }
 }
